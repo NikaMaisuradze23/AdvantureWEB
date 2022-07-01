@@ -1,0 +1,63 @@
+.menu-container {
+    font-size: 17px;
+    width: 438;
+    height: 24;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 62px;
+    float: right;
+    margin-right: 51px;
+    color: black;
+
+}
+
+
+.nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top:40px;
+    margin-left: 220px;
+}
+
+.nav-li1 {
+    display: inline-block;
+    margin-right: 99px;
+}
+
+.nav-li2 {
+    display: inline-block;
+    margin-right: 59px;
+}
+
+.profile{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.lang {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 51px;
+}
+
+.search {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 65px;
+}
+
+.line {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 59px;
+}
+
+.right-nav {
+    display: inline-block;
+    vertical-align: middle;
+}
